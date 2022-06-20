@@ -2,6 +2,7 @@
 
 > Here's some useful resources of all telegram resources
 
+- [**Deno**](/telegram/deno.md)
 - [**Go**](/telegram/go.md)
 - [**Node.js**](/telegram/nodejs.md)
 - [**Python**](/telegram/python.md)
