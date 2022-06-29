@@ -2,6 +2,7 @@
 
 > Here's some useful resources of all discord resources
 
+- [**Crystal**](/discord/crystal.md)
 - [**Deno**](/discord/deno.md)
 - [**Go**](/discord/go.md)
 - [**Node.js**](/discord/nodejs.md)
