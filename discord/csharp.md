@@ -14,6 +14,8 @@
 - [Discord.Net Guides](https://discordnet.dev/guides/introduction/intro.html)
 - [Discord.Net FAQ](https://discordnet.dev/faq/basics/getting-started.html)
 - [Discord.Net API Docs](https://discordnet.dev/api/index.html)
+- [Discord Server](https://discord.com/invite/dnet)
+- [Discord.Net Channel](https://discord.com/channels/81384788765712384/381889909113225237)
 - [BotNet](https://www.nuget.org/packages/BotNet)
 
 ## Examples

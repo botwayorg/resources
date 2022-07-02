@@ -10,6 +10,7 @@
 ## API
 
 - [Minimalist Discord library for Crystal](https://github.com/shardlab/discordcr)
+- [DiscordCr Channel](https://discord.com/channels/81384788765712384/381889335278043137)
 - [BotwayCr](https://github.com/abdfnx/botwaycr)
 
 ## Examples
