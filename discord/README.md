@@ -4,6 +4,7 @@
 
 - [**Crystal**](/discord/crystal.md)
 - [**C#**](/discord/csharp.md)
+- [**Dart**](/discord/dart.md)
 - [**Deno**](/discord/deno.md)
 - [**Go**](/discord/go.md)
 - [**Node.js**](/discord/nodejs.md)
