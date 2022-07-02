@@ -13,7 +13,7 @@
 - [Nyxx Website](https://nyxx.l7ssha.xyz)
 - [Discord Server](https://discord.com/invite/nyxx)
 - [Nyxx Channel](https://discord.com/channels/81384788765712384/473853847115137024)
-- [**Botway_dart**](https://pub.dev/packages/botway_dart)
+- [Botway_dart](https://pub.dev/packages/botway_dart)
 
 ## Examples
 
