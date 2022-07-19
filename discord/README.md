@@ -8,6 +8,7 @@
 - [**Deno**](/discord/deno.md)
 - [**Go**](/discord/go.md)
 - [**Node.js**](/discord/nodejs.md)
+- [**PHP**](/discord/php.md)
 - [**Python**](/discord/python.md)
 - [**Ruby**](/discord/ruby.md)
 - [**Rust**](/discord/rust.md)
