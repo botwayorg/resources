@@ -7,6 +7,7 @@
 - [**Dart**](/discord/dart.md)
 - [**Deno**](/discord/deno.md)
 - [**Go**](/discord/go.md)
+- [**Kotlin**](/discord/kotlin.md)
 - [**Node.js**](/discord/nodejs.md)
 - [**PHP**](/discord/php.md)
 - [**Python**](/discord/python.md)
