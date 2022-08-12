@@ -12,7 +12,7 @@
 - [An API to interact with the popular messaging app Discord](https://github.com/discord-php/DiscordPHP)
 - [DiscordPHP Website](https://discord-php.github.io/DiscordPHP)
 - [Discord Server](https://discord.gg/dphp)
-- [BW-PHP](https://github.com/botwayorg/discord-php/blob/main/src/botway.php)
+- [BW-PHP](https://github.com/abdfnx/botway/tree/main/packages/bw-php)
 
 ## Examples
 

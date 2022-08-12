@@ -11,7 +11,7 @@
 
 - [A Discord Bot & REST Library for Nim.](https://github.com/krisppurg/dimscord)
 - [Discord Server](https://discord.gg/dimscord)
-- [Botnim](https://github.com/botwayorg/discord-nim/blob/main/src/botnim.nim)
+- [Botnim](https://github.com/abdfnx/botway/tree/main/packages/botnim)
 
 ## Examples
 

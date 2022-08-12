@@ -12,6 +12,6 @@
 - [Idiomatic Kotlin Wrapper for The Discord API](https://github.com/kordlib/kord)
 - [Kord Website](https://kordlib.github.io/kord)
 - [Discord Server](https://discord.gg/6jcx5ev)
-- [Botlin](https://github.com/botwayorg/discord-kotlin/blob/main/app/src/main/kotlin/botway/Botway.kt)
+- [Botlin](https://github.com/abdfnx/botway/tree/main/packages/botlin)
 
 big thanks to [**@kordlib**](https://github.com/kordlib) org

@@ -11,7 +11,7 @@
 
 - [A Discord API wrapper library written in C](https://github.com/Cogmasters/concord)
 - [Discord Server](https://discord.gg/Y7Xa6MA82v)
-- [BWC](https://github.com/botwayorg/discord-c/blob/main/src/botway.h)
+- [BWC](https://github.com/abdfnx/botway/tree/main/packages/bwc)
 
 ## Examples
 

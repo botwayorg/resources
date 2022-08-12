@@ -11,7 +11,7 @@
 
 - [C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!](https://github.com/brainboxdotcc/DPP)
 - [Discord Server](https://discord.gg/dpp)
-- [BW++](https://github.com/botwayorg/discord-cpp/blob/main/include/botway/botway.h)
+- [BW++](https://github.com/abdfnx/botway/tree/main/packages/bwpp)
 
 ## Examples
 

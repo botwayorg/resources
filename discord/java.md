@@ -13,6 +13,6 @@
 - [JDA Wiki](https://github.com/DV8FromTheWorld/JDA/wiki)
 - [Discord Server](https://discord.gg/0hMr4ce0tIl3SLv5)
 - [Discord Channel](https://discord.com/channels/81384788765712384/381889648827301889)
-- [Botlin](https://github.com/botwayorg/discord-kotlin/blob/main/app/src/main/kotlin/botway/Botway.kt)
+- [Botlin](https://github.com/abdfnx/botway/tree/main/packages/botlin)
 
 big thanks to [**@DV8FromTheWorld (Austin Keener)**](https://github.com/DV8FromTheWorld)
