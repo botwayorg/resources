@@ -18,4 +18,4 @@
 
 - [A collection of example programs written with DiscordPHP](https://github.com/discord-php/DiscordPHP/tree/master/examples)
 
-big thanks to [**@discord-php**](https://github.com/discord-php)
+big thanks to [**@discord-php**](https://github.com/discord-php) org
