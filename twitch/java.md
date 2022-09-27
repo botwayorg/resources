@@ -4,7 +4,7 @@
 
 ## Setup
 
-- [Setup twitch bot](https://github.com/abdfnx/botway/discussions/106)
+- [Setup twitch bot](https://github.com/abdfnx/botway/discussions/111)
 
 ## API
 
