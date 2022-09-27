@@ -11,7 +11,7 @@
 - [**Kotlin**](/telegram/kotlin.md)
 - [**Nim**](/telegram/nim.md)
 - [**Node.js**](/telegram/nodejs.md)
-- [**PHP*](/telegram/php.md)
+- [**PHP**](/telegram/php.md)
 - [**Python**](/telegram/python.md)
 - [**Ruby**](/telegram/ruby.md)
 - [**Rust**](/telegram/rust.md)
