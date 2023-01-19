@@ -10,7 +10,7 @@
 
 - [Telegram Bot SDK for Swift (unofficial)](https://github.com/rapierorg/telegram-bot-swift)
 - [Wiki](https://github.com/rapierorg/telegram-bot-swift/wiki)
-- [BW-PHP](https://github.com/abdfnx/botway/tree/main/packages/bw-php)
+- [Botway-Swift](https://github.com/abdfnx/botway/tree/main/packages/botway-swift)
 
 ## Examples
 
